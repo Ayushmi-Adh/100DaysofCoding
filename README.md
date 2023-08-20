@@ -10,7 +10,7 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 ## Basic Level Python Projects
 |S.N|    Projects    | 
 |---|----------------|
-| 1 | [Coffee Machine](CoffeeMachine.py)   | 
+| 1 | [Coffee Machine](/code/day15/CoffeeMachine.py)   | 
 | 2 | Rock,Paper,Scissor   | 
 
 
