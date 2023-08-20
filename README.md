@@ -116,6 +116,35 @@ Play the classic game of Rock Paper Scissors against the computer. Make your cho
 -"Treasure Island," "Rock Paper Scissors," and "Band Name Generator" programs, I've used ASCII art to enhance the user experience and add a visual element to the text-based programs. This can make our programs more engaging and visually appealing, especially when shared with others.
 
 
+# Day-5
+## PyPassword Generator
+
+Generate secure and randomized passwords with the "PyPassword Generator" program. This program creates passwords based on your desired number of letters, symbols, and numbers.
+
+ **How It Works**
+
+1. The program prompts you to specify the number of letters, symbols, and numbers you want in your password.
+2. It randomly selects characters from alphabets, symbols, and numbers to create a password.
+3. The password is shuffled to ensure randomness.
+4. The final password is displayed to you.
+
+   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/fa73305a-3a63-44f9-9772-785cd2607b61)
+
+# Lists and Importing Modules in Python
+
+In Python, lists are a fundamental data structure that allow you to store and manipulate collections of items. Lists can contain elements of different types, including integers, strings, and more. They are useful for tasks like storing multiple values, iterating over elements, and dynamically managing data.
+
+Python also provides the ability to import modules, which are collections of related functions, classes, and variables. Modules allow you to organize your code into reusable components and access functionality beyond the built-in features of the Python language.
+
+**Lists**
+
+Lists are defined using square brackets `[]`, and elements are separated by commas. They support indexing (starting from 0) and slicing to access specific elements or portions of the list. Lists can be modified, resized, and extended using various methods.
+
+Example of creating a list:
+```python
+my_list = [1, 2, 3, "hello", True]
+
+
 
 
 
