@@ -29,3 +29,6 @@ The 100 Days of Coding Python challenge is an initiative to consistently work on
 - Gain hands-on experience in building real-world projects.
 - Learn and apply different Python libraries and frameworks.
 - Develop problem-solving and algorithmic thinking abilities.
+
+## Day-1
+
