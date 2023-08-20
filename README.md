@@ -74,6 +74,16 @@ This is a simple Python program that calculates the total bill per person, inclu
 4. The program will calculate the tip amount, add it to the total bill, and then divide the total among the specified number of people.
 5. It will display the amount each person needs to pay.
 
+   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/7e5a3a70-62d8-4f73-ac99-74c3fe547fbc)
+
+   print(f"Each person should pay ${round(each_person, 2)}")
+In this line of code, the print() function uses an f-string to create a formatted string that displays the calculated amount each person should pay. Here's the breakdown of how it works:
+
+1.f"...": The f before the string indicates that it's an f-string.
+
+2.{round(each_person, 2)}: The expression within the curly braces is evaluated and replaced with the rounded value of each_person with 2 decimal places.
+
+
    
 
 
