@@ -7,6 +7,13 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 - [About the Challenge](#about-the-challenge)
 - [My Goals](#my-goals)
 
+## Basic Level Python Projects
+| S.N| Projects | 
+|----|----------|
+| 1  | Cell 2   | 
+| 2  | Cell 5   | 
+
+
 ## About the Challenge
 
 The 100 Days of Coding Python challenge is an initiative to consistently work on coding projects and improve Python skills. The challenge involves dedicating at least an hour every day to coding, learning, and building various Python projects.
