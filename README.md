@@ -41,5 +41,8 @@ This is a simple Python program that generates band names using the name of your
 2. Then, it will ask you to provide your pet's name.
 3. The program will combine the two names to create a unique band name.
 
+![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/ed68fe90-65f6-4e93-b543-b675523e5dca)
+
+
 
 
