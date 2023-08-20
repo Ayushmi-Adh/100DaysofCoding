@@ -82,12 +82,38 @@ This is a simple Python program that calculates the total bill per person, inclu
 
 1.f"...": The f before the string indicates that it's an `f-string`.
 
-2.{round(each_person, 2)}: The expression within the curly braces is evaluated and replaced with the rounded value of each_person with 2 decimal places.
+2.{round(each_person, 2)}: The expression within the curly braces is evaluated and replaced with the rounded value of each_person with 2 deci mal places.
 
+# Day-3
+## Treasure Island Adventure
+
+Experience an interactive text-based adventure in the "Treasure Island" game. Your mission is to find the hidden treasure! Follow the clues, make choices, and see if you can successfully discover the treasure.
+
+**How It Works**
+
+1. You are presented with a textual representation of the island.
+2. You are given choices at each stage of the story.
+3. Based on your choices, the story progresses and may lead you to success or failure.
+
+   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/e2edaf5e-4089-494b-b7c7-c474ad297b0d)
 
    
 
+# Day-4
+## Rock Paper Scissors Game
 
+Play the classic game of Rock Paper Scissors against the computer. Make your choice and see if you can beat the computer's selection!
+
+**How It Works**
+
+1. You choose between rock, paper, and scissors by entering the respective numbers (0 for rock, 1 for paper, and 2 for scissors).
+2. The computer randomly selects one of the options.
+3. The game evaluates the choices and determines the winner or if it's a draw.
+
+![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/a29dcddc-3643-4332-9656-c36504d0bdff)
+
+## ASCII ART
+-"Treasure Island," "Rock Paper Scissors," and "Band Name Generator" programs, I've used ASCII art to enhance the user experience and add a visual element to the text-based programs. This can make our programs more engaging and visually appealing, especially when shared with others.
 
 
 
