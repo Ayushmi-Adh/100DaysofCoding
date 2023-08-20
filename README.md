@@ -11,7 +11,7 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 |S.N|    Projects    | 
 |---|----------------|
 | 1 | [Coffee Machine](/code/day15/CoffeeMachine.py)   | 
-| 2 | Rock,Paper,Scissor   | 
+| 2 | [Rock,Paper,Scissor](/code/day4/day4-rock_paper_scissor.py) | 
 
 
 ## About the Challenge
