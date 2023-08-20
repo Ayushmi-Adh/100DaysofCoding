@@ -61,7 +61,20 @@ This is a simple Python program that generates band names using the name of your
 5. **Function Calls:**
    The program uses the `input()` and `print()` functions, which are built-in Python functions, to interact with the user and display output.
 
+# Day-2
+## Tip Calculator
 
+This is a simple Python program that calculates the total bill per person, including the tip, based on the total bill amount, tip percentage, and the number of people sharing the bill.
+
+**How It Works**
+
+1. The program will prompt you to enter the total bill amount.
+2. Then, it will ask you to provide the tip percentage you want to give (10, 12, or 15).
+3. Next, it will prompt you to specify the number of people sharing the bill.
+4. The program will calculate the tip amount, add it to the total bill, and then divide the total among the specified number of people.
+5. It will display the amount each person needs to pay.
+
+   
 
 
 
