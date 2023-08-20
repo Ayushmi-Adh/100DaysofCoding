@@ -11,7 +11,12 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 |S.N|    Projects    | 
 |---|----------------|
 | 1 | [Coffee Machine](/code/day15/CoffeeMachine.py)   | 
-| 2 | [Rock,Paper,Scissor](/code/day4/day4-rock_paper_scissor.py) | 
+| 2 | [Rock,Paper,Scissor](/code/day4/day4-rock_paper_scissor.py) |
+| 3 | [HangMan Game](/code/day6/hangmanGame.py)|
+| 4 | [Ceasar Cipher](/code/day8/day8-ceaesar-cipher.py)|
+| 5 | [Blind Auction](/code/day9/day9-blind-auction.py)|
+| 6 | [Black-Jack](/code/day11/day11-Black_Jack.py)|
+
 
 
 ## About the Challenge
