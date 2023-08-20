@@ -30,8 +30,8 @@ The 100 Days of Coding Python challenge is an initiative to consistently work on
 - Learn and apply different Python libraries and frameworks.
 - Develop problem-solving and algorithmic thinking abilities.
 
-## Day-1
-# Band Name Generator
+# Day-1
+## Band Name Generator
 
 This is a simple Python program that generates band names using the name of your city and your pet's name.
 
@@ -42,6 +42,27 @@ This is a simple Python program that generates band names using the name of your
 3. The program will combine the two names to create a unique band name.
 
 ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/ed68fe90-65f6-4e93-b543-b675523e5dca)
+
+## Breakdown of Basic Python concepts used in Day-1
+ The "Band Name Generator" program is a simple example that uses some basic concepts of Python programming. 
+
+1. **Input and Output:**
+   The program uses the `input()` function to prompt the user for input. It then uses the `print()` function to display the generated band name.
+
+2. **Variables:**
+   The program uses variables to store the user's input (`name` and `name2`) and the combined band name (`band_name`).
+
+3. **String Concatenation:**
+   String concatenation is used to combine the user's input for the city name and pet's name to create the band name. The `+` operator is used to concatenate strings.
+
+4. **Control Flow:**
+   The program follows a linear sequence of steps, where each step prompts the user for input and then proceeds to the next step. There are no explicit conditional statements or loops in this program.
+
+5. **Function Calls:**
+   The program uses the `input()` and `print()` functions, which are built-in Python functions, to interact with the user and display output.
+
+
+
 
 
 
