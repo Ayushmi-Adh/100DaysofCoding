@@ -1,7 +1,8 @@
 # -100daysofcoding-
 Welcome to my 100 Days of Coding Python challenge! This is a personal coding journey where I'll be coding and learning Python for the next 100 days. Follow along to see my progress and the projects I'll be working on.
  
-![68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/1b8309c7-ab93-43e6-ad3a-81248e09361a)
+![68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/bc5e6226-bb96-4033-8e26-cc7bf1e6d583)
+
 
 ## Table of Contents
 - [About the Challenge](#about-the-challenge)
@@ -41,7 +42,8 @@ This is a simple Python program that generates band names using the name of your
 2. Then, it will ask you to provide your pet's name.
 3. The program will combine the two names to create a unique band name.
 
-![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/ed68fe90-65f6-4e93-b543-b675523e5dca)
+![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/165cab1f-d138-49ac-b210-4dcf710aaddd)
+
 
 ## Breakdown of Basic Python concepts used in Day-1
  The "Band Name Generator" program is a simple example that uses some basic concepts of Python programming. 
@@ -74,7 +76,8 @@ This is a simple Python program that calculates the total bill per person, inclu
 4. The program will calculate the tip amount, add it to the total bill, and then divide the total among the specified number of people.
 5. It will display the amount each person needs to pay.
 
-   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/7e5a3a70-62d8-4f73-ac99-74c3fe547fbc)
+   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/52a976c0-6c25-4d1a-a184-0df39b60f46c)
+
 
    **"print(f"Each person should pay ${round(each_person, 2)}")"**
    
@@ -95,9 +98,8 @@ Experience an interactive text-based adventure in the "Treasure Island" game. Yo
 2. You are given choices at each stage of the story.
 3. Based on your choices, the story progresses and may lead you to success or failure.
 
-   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/e2edaf5e-4089-494b-b7c7-c474ad297b0d)
+   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/83af87c2-33bb-42af-a60c-ff6f7055d1fb)
 
-   
 
 # Day-4
 ## Rock Paper Scissors Game
@@ -110,7 +112,8 @@ Play the classic game of Rock Paper Scissors against the computer. Make your cho
 2. The computer randomly selects one of the options.
 3. The game evaluates the choices and determines the winner or if it's a draw.
 
-![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/a29dcddc-3643-4332-9656-c36504d0bdff)
+![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/48080c42-cc73-4aa4-b5e7-026438acb728)
+
 
 ## ASCII ART
 -"Treasure Island," "Rock Paper Scissors," and "Band Name Generator" programs, I've used ASCII art to enhance the user experience and add a visual element to the text-based programs. This can make our programs more engaging and visually appealing, especially when shared with others.
@@ -128,7 +131,8 @@ Generate secure and randomized passwords with the "PyPassword Generator" program
 3. The password is shuffled to ensure randomness.
 4. The final password is displayed to you.
 
-   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/fa73305a-3a63-44f9-9772-785cd2607b61)
+   ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/85602430-5ca2-4b60-a7ea-500cb536e20b)
+
 
 # Lists and Importing Modules in Python
 
