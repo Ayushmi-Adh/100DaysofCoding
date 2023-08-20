@@ -8,10 +8,10 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 - [My Goals](#my-goals)
 
 ## Basic Level Python Projects
-| S.N| Projects | 
-|----|----------|
-| 1  | Cell 2   | 
-| 2  | Cell 5   | 
+|S.N|    Projects    | 
+|---|----------------|
+| 1 | Coffee Machine    | 
+| 2 | Rock,Paper,Scissor   | 
 
 
 ## About the Challenge
