@@ -146,7 +146,7 @@ Lists are defined using square brackets `[]`, and elements are separated by comm
 
 Example of creating a list:
 ```python
-my_list = [1, 2, 3, "hello", True]
+my_list = [1, 2, 3, "aayushmi", True]
 
 
 
