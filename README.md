@@ -163,6 +163,108 @@ Play the classic game of Hangman and guess the secret word before you run out of
 
 <img width="252" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/2bdfbcbf-35cf-4fb1-8da9-58347fd360e3">
 
+# Day-8
+## Caesar Cipher
+
+Encrypt and decrypt messages using the Caesar Cipher technique. This program shifts the letters in your message by a specified number, allowing you to encode and decode secret messages.
+
+**How It Works**
+
+1. The program prompts you to choose whether you want to 'encode' or 'decode' a message.
+2. You input the message you want to encrypt or decrypt.
+3. You provide the shift value (key) to determine the number of positions each letter is shifted.
+4. The program performs the encryption or decryption based on your input and displays the result.
+
+<img width="576" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/e8311098-b815-49ed-9591-0e520170c8f6">
+
+# Day-9
+## Blind Auction Program
+
+Run a secret auction program to accept bids from participants without revealing the bids to others. This program determines the highest bidder and announces the winner after all bids are collected.
+
+ **How It Works**
+
+1. The program starts by displaying a logo and welcoming participants to the secret auction.
+2. Participants enter their names and bid amounts.
+3. The program keeps track of the bids in the `auction` dictionary.
+4. Participants can continue entering bids or indicate that they are done.
+5. Once all bids are collected, the program identifies the highest bidder and announces the winner.
+
+<img width="356" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/658df6df-2f91-4946-bf85-64d33adb6ff8">
+
+# Day-10
+## Calculator
+
+Perform basic arithmetic calculations using this simple calculator program. Enter two numbers and choose an operation to get the result.
+
+**How It Works**
+
+1. The program displays a logo and welcomes you to the calculator.
+2. You input the first number.
+3. The available operations (+, -, *, /) are displayed.
+4. You choose an operation and input the second number.
+5. The program performs the calculation and displays the result.
+6. You can choose to continue using the result for further calculations or start new calculations.
+
+<img width="267" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/235d91c7-0f94-4591-876e-9667ce2a5128">
+<img width="408" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/2545e910-deb6-4038-a006-315f84b91526">
+
+# Day-11
+## BlackJack Game
+
+Play a simplified version of the classic casino game BlackJack against the computer. Try to get as close to 21 as possible without going over!
+
+**How It Works**
+
+1. The program starts by dealing two cards to both you and the computer.
+2. You can choose to get another card ("hit") or pass ("stand").
+3. The goal is to get a hand value as close to 21 as possible without exceeding it.
+4. If your hand value exceeds 21, you lose ("bust").
+5. The computer automatically plays according to simple rules.
+6. The winner is determined based on the hand values.
+
+   <img width="321" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/53334a94-d459-4db9-97b7-b563b6f543f0">
+
+# Day-12
+## Number Guessing Game
+
+Guess the correct number between 1 and 100 in this fun Number Guessing Game. Choose your difficulty level and try to find the secret number within the allotted attempts!
+
+**How It Works**
+
+1. The program starts by displaying a logo and welcoming you to the Number Guessing Game.
+2. You choose a difficulty level: 'easy' (10 attempts) or 'hard' (5 attempts).
+3. The program generates a random number between 1 and 100.
+4. You make guesses, and the program provides hints about whether the correct number is higher or lower.
+5. Keep guessing until you find the correct number or run out of attempts.
+
+<img width="409" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/23ec0005-d645-4753-9d39-a471337dacb0">
+
+# Day-13
+## Higher Lower Game
+
+Test your knowledge of Instagram follower counts with the Higher Lower Game! Compare two Instagram accounts and guess which one has more followers.
+
+**How It Works**
+
+1. The program displays a logo and welcomes you to the Higher Lower Game.
+2. You are shown two Instagram accounts, and you have to guess which one has more followers.
+3. If your guess is correct, your score increases.
+4. If your guess is wrong, the game ends and your final score is displayed.
+
+<img width="273" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/6af491cf-05bb-435a-9d37-d0ec99b3ee6a">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
