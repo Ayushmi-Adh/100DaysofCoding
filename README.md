@@ -147,8 +147,21 @@ Lists are defined using square brackets `[]`, and elements are separated by comm
 Example of creating a list:
 ```python
 my_list = [1, 2, 3, "aayushmi", True]
+```
+# Day-7
+## HangMan Game
 
+Play the classic game of Hangman and guess the secret word before you run out of lives. Have fun testing your vocabulary and logic skills!
 
+**How It Works**
+
+1. The game randomly selects a secret word from a predefined list.
+2. You have a limited number of lives to guess the letters in the word.
+3. For each correct guess, the letter is revealed in its correct position.
+4. For each incorrect guess, you lose a life and part of the hangman drawing is displayed.
+5. Your goal is to guess the entire word before running out of lives.
+
+<img width="252" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/2bdfbcbf-35cf-4fb1-8da9-58347fd360e3">
 
 
 
