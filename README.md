@@ -155,7 +155,7 @@ Play the classic game of Hangman and guess the secret word before you run out of
 
 **How It Works**
 
-1. The game randomly selects a secret word from a predefined list.
+1. The game randomly selects a secret word from a predefined list
 2. You have a limited number of lives to guess the letters in the word.
 3. For each correct guess, the letter is revealed in its correct position.
 4. For each incorrect guess, you lose a life and part of the hangman drawing is displayed.
