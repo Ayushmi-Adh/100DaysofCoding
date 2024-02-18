@@ -4,11 +4,11 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 ![68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/bc5e6226-bb96-4033-8e26-cc7bf1e6d583)
 
 
-## Table of Contents
+## Table of Contents:
 - [About the Challenge](#about-the-challenge)
 - [My Goals](#my-goals)
 
-## Basic Level Python Projects
+## Basic Level Python Projects:
 |S.N|    Projects    | 
 |---|----------------|
 | 1 | [Coffee Machine](/code/day15/CoffeeMachine.py)   | 
@@ -20,18 +20,18 @@ Welcome to my 100 Days of Coding Python challenge! This is a personal coding jou
 
 
 
-## About the Challenge
+## About the Challenge:
 
 The 100 Days of Coding Python challenge is an initiative to consistently work on coding projects and improve Python skills. The challenge involves dedicating at least an hour every day to coding, learning, and building various Python projects.
 
-## My Goals
+## My Goals:
 
 - Improve my Python programming skills.
 - Gain hands-on experience in building real-world projects.
 - Learn and apply different Python libraries and frameworks.
 - Develop problem-solving and algorithmic thinking abilities.
 
-# Day-1
+# Day-1:
 ## Band Name Generator
 
 This is a simple Python program that generates band names using the name of your city and your pet's name.
@@ -45,7 +45,7 @@ This is a simple Python program that generates band names using the name of your
 ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/165cab1f-d138-49ac-b210-4dcf710aaddd)
 
 
-## Breakdown of Basic Python concepts used in Day-1
+## Breakdown of Basic Python concepts used in Day-1:
  The "Band Name Generator" program is a simple example that uses some basic concepts of Python programming. 
 
 1. **Input and Output:**
@@ -63,7 +63,7 @@ This is a simple Python program that generates band names using the name of your
 5. **Function Calls:**
    The program uses the `input()` and `print()` functions, which are built-in Python functions, to interact with the user and display output.
 
-# Day-2
+# Day-2:
 ## Tip Calculator
 
 This is a simple Python program that calculates the total bill per person, including the tip, based on the total bill amount, tip percentage, and the number of people sharing the bill.
@@ -87,7 +87,7 @@ This is a simple Python program that calculates the total bill per person, inclu
 
 2.{round(each_person, 2)}: The expression within the curly braces is evaluated and replaced with the rounded value of each_person with 2 deci mal places.
 
-# Day-3
+# Day-3:
 ## Treasure Island Adventure
 
 Experience an interactive text-based adventure in the "Treasure Island" game. Your mission is to find the hidden treasure! Follow the clues, make choices, and see if you can successfully discover the treasure.
@@ -101,7 +101,7 @@ Experience an interactive text-based adventure in the "Treasure Island" game. Yo
    ![image](https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/83af87c2-33bb-42af-a60c-ff6f7055d1fb)
 
 
-# Day-4
+# Day-4:
 ## Rock Paper Scissors Game
 
 Play the classic game of Rock Paper Scissors against the computer. Make your choice and see if you can beat the computer's selection!
@@ -119,7 +119,7 @@ Play the classic game of Rock Paper Scissors against the computer. Make your cho
 -"Treasure Island," "Rock Paper Scissors," and "Band Name Generator" programs, I've used ASCII art to enhance the user experience and add a visual element to the text-based programs. This can make our programs more engaging and visually appealing, especially when shared with others.
 
 
-# Day-5
+# Day-5:
 ## PyPassword Generator
 
 Generate secure and randomized passwords with the "PyPassword Generator" program. This program creates passwords based on your desired number of letters, symbols, and numbers.
@@ -148,7 +148,7 @@ Example of creating a list:
 ```python
 my_list = [1, 2, 3, "aayushmi", True]
 ```
-# Day-7
+# Day-7:
 ## HangMan Game
 
 Play the classic game of Hangman and guess the secret word before you run out of lives. Have fun testing your vocabulary and logic skills!
@@ -163,7 +163,7 @@ Play the classic game of Hangman and guess the secret word before you run out of
 
 <img width="252" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/2bdfbcbf-35cf-4fb1-8da9-58347fd360e3">
 
-# Day-8
+# Day-8:
 ## Caesar Cipher
 
 Encrypt and decrypt messages using the Caesar Cipher technique. This program shifts the letters in your message by a specified number, allowing you to encode and decode secret messages.
@@ -177,7 +177,7 @@ Encrypt and decrypt messages using the Caesar Cipher technique. This program shi
 
 <img width="576" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/e8311098-b815-49ed-9591-0e520170c8f6">
 
-# Day-9
+# Day-9:
 ## Blind Auction Program
 
 Run a secret auction program to accept bids from participants without revealing the bids to others. This program determines the highest bidder and announces the winner after all bids are collected.
@@ -192,7 +192,7 @@ Run a secret auction program to accept bids from participants without revealing 
 
 <img width="356" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/658df6df-2f91-4946-bf85-64d33adb6ff8">
 
-# Day-10
+# Day-10:
 ## Calculator
 
 Perform basic arithmetic calculations using this simple calculator program. Enter two numbers and choose an operation to get the result.
@@ -209,7 +209,7 @@ Perform basic arithmetic calculations using this simple calculator program. Ente
 <img width="267" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/235d91c7-0f94-4591-876e-9667ce2a5128">
 <img width="408" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/2545e910-deb6-4038-a006-315f84b91526">
 
-# Day-11
+# Day-11:
 ## BlackJack Game
 
 Play a simplified version of the classic casino game BlackJack against the computer. Try to get as close to 21 as possible without going over!
@@ -225,7 +225,7 @@ Play a simplified version of the classic casino game BlackJack against the compu
 
    <img width="321" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/53334a94-d459-4db9-97b7-b563b6f543f0">
 
-# Day-12
+# Day-12:
 ## Number Guessing Game
 
 Guess the correct number between 1 and 100 in this fun Number Guessing Game. Choose your difficulty level and try to find the secret number within the allotted attempts!
@@ -240,7 +240,7 @@ Guess the correct number between 1 and 100 in this fun Number Guessing Game. Cho
 
 <img width="409" alt="image" src="https://github.com/Ayushmi-Adh/100DaysofCoding/assets/132826306/23ec0005-d645-4753-9d39-a471337dacb0">
 
-# Day-13
+# Day-13:
 ## Higher Lower Game
 
 Test your knowledge of Instagram follower counts with the Higher Lower Game! Compare two Instagram accounts and guess which one has more followers.
