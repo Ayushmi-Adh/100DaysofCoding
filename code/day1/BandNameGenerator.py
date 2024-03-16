@@ -1,4 +1,4 @@
-#This is a program to generate band names
+#This is a program to generate band names:
 print("What is the name of your city?")
 name=input()
 print("What is your pet's name?")
