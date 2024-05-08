@@ -32,7 +32,7 @@ The 100 Days of Coding Python challenge is an initiative to consistently work on
 - Develop problem-solving and algorithmic thinking abilities.
 
 # Day-1:
-## Band Name Generator
+## Band Name Generator:
 
 This is a simple Python program that generates band names using the name of your city and your pet's name.
 
